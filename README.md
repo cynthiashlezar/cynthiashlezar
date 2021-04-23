@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+My name is Cynthia Shlezar and my pronouns are she/her.
+
+I graduated from the University of Arizona in 2018 with a Bachelor's degree in Computer Science and German Studies. Previously, I worked as a software engineer in Xbox Support, and now I'm a software engineer on GitHub Actions.
 
 <!--
 **cynthiashlezar/cynthiashlezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
